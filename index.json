@@ -1,0 +1,169 @@
+{
+ "gallery": 1,
+ "entries": [
+  {
+   "id": "candy-knot",
+   "name": "Candy Knot",
+   "author": "WLED Effects Studio examples",
+   "description": "A striped knot wound round the cube, turning on the beat.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "0a72d03f4dfea64582425cdbdf5ee621bf62db0a29fec020c1c2e55229b79f86",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "fireworks",
+   "name": "Fireworks",
+   "author": "WLED Effects Studio examples",
+   "description": "Bursts launched on the beat, falling as sparks.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "6304c655834ffde394eaaeff7c7db78c0ea2199b46f129cd3208c578339a2164",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "kaleidoscope",
+   "name": "Kaleidoscope",
+   "author": "WLED Effects Studio examples",
+   "description": "Mirrored wedges of colour folding into each other.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "f9965b12272b1496e1fd9cc2a3affa5c31bb068b699b44d538fdf7d798766ead",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "liquid-tunnel",
+   "name": "Liquid Tunnel",
+   "author": "WLED Effects Studio examples",
+   "description": "A reaction-diffusion tunnel that flows towards you.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "872c98fa1cb3fb862adf40ee37993170a97a63d69bbe8c6472cf0236c4936d60",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "maelstrom",
+   "name": "Maelstrom",
+   "author": "WLED Effects Studio examples",
+   "description": "A whirlpool of colour pulled into the cube's middle.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "0e56e3f6b79ec5057d36a4960ce1962bb72e13b1e75fa47e040033ae009eb070",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "mandelbrot",
+   "name": "Mandelbrot",
+   "author": "WLED Effects Studio examples",
+   "description": "A slow dive into the Mandelbrot set.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "c65d31621cee5379ed78be788f6c4d770934df7950eefb7b5055e81661833044",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "moire",
+   "name": "Moire",
+   "author": "WLED Effects Studio examples",
+   "description": "Two rings of lines sliding over each other into moire patterns.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "5af910676193cfbce58f7685f949494ce514202fd40e170d1d2d44604c104ad3",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "ring-rain",
+   "name": "Ring Rain",
+   "author": "WLED Effects Studio examples",
+   "description": "Rings that fall and spread across the faces on each beat.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "790516d2dca47c541aad4b94505a793e5f0e0ad8acb4111d691f8fbe68e65e88",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "snowstorm",
+   "name": "Snowstorm",
+   "author": "WLED Effects Studio examples",
+   "description": "Snow blown round the cube, thicker with the music.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "d66f0e5d66fe971ae102cd4770ba01d6bb274f33d6dc8fdffab9d892d9c85f3a",
+   "requires": []
+  },
+  {
+   "id": "spirals",
+   "name": "Spirals",
+   "author": "WLED Effects Studio examples",
+   "description": "Spiral arms turning across every face.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "fc0198316546e7348ccefd8dc67503fe5ba9d4decc9871f2698dc16718989fba",
+   "requires": []
+  },
+  {
+   "id": "truchet-cube",
+   "name": "Truchet Cube",
+   "author": "WLED Effects Studio examples",
+   "description": "Truchet tiles whose curves flip and flow.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "687fd5ce796447ef3d4fe6e3333b297569a1858b423b6fa5d075efea273f2a32",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
+   "id": "watershed",
+   "name": "Watershed",
+   "author": "WLED Effects Studio examples",
+   "description": "Water finding its way down the cube's sides.",
+   "tags": [
+    "3-D",
+    "cube"
+   ],
+   "sha256": "a6c5361babc58f15311b7169fc1f590ae2405473be5eaddafa685a9f90a47e82",
+   "requires": [
+    "audio"
+   ]
+  }
+ ]
+}
