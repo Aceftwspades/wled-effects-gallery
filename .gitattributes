@@ -1,0 +1,4 @@
+# the graph files byte for byte: the index names each by its sha256, which a line-ending conversion would change
+effects/*.json -text
+index.json -text
+previews/*.gif binary
