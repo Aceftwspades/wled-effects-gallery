@@ -152,6 +152,22 @@
    ]
   },
   {
+   "id": "video-switchboard",
+   "name": "Video Switchboard",
+   "author": "WLED Effects Studio examples",
+   "description": "A VJ desk for live video: two decks of ten looks (motion trails, a follow spot, halftone, thermal...) and a crossfader, each look a sub-graph - auto mix and shuffle run a show by themselves.",
+   "tags": [
+    "video",
+    "2-D",
+    "sub-graphs",
+    "audio"
+   ],
+   "sha256": "8169efc4f57cce9cbc950359e8e1b656d2f0961d513c1645934706c237d72d2a",
+   "requires": [
+    "audio"
+   ]
+  },
+  {
    "id": "watershed",
    "name": "Watershed",
    "author": "WLED Effects Studio examples",
