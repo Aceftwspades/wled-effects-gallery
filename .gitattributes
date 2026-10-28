@@ -2,3 +2,7 @@
 effects/*.json -text
 index.json -text
 previews/*.gif binary
+# the add-on looks too: packs.json names each by its sha256
+looks/** -text
+packs.json -text
+previews/packs/*.png binary

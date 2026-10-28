@@ -48,6 +48,63 @@ files by its id alone.
 
 ## Licence
 
-The effects are shared under the EUPL v1.2 or later, the studio's and WLED's
-licence ([LICENSE](LICENSE)). By opening a pull request you share yours
-under it too.
+The effects (the graphs) are shared under the EUPL v1.2 or later, the
+studio's and WLED's licence ([LICENSE](LICENSE)). By opening a pull request
+you share yours under it too. The add-on looks keep their own licences,
+below.
+
+## Add-on looks for the VJ
+
+Beside the graphs are packs of looks for the studio's VJ: MilkDrop presets
+and Shadertoy shaders, in `looks/<pack id>/`, listed in `packs.json` with a
+picture of each pack in `previews/packs/`. In the studio: **Packs...** in the
+VJ window installs a whole pack or a single look, for every project on that
+computer, and removes them the same way.
+
+| Pack | Looks | Licence |
+|---|---|---|
+| MilkDrop: Tunnels & radial | 7 | each preset its author's, shared freely |
+| MilkDrop: Kaleidoscopes & mirrors | 7 | each preset its author's, shared freely |
+| MilkDrop: Liquid & fire | 5 | each preset its author's, shared freely |
+| MilkDrop: Shapes & waves | 9 | each preset its author's, shared freely |
+| Shadertoy: Raymarched | 7 | CC0, MIT |
+| Shadertoy: Colour & flow | 6 | CC0, MIT, CC BY 4.0 |
+| Shadertoy: Patterns & kaleidoscopes | 8 | **CC BY-NC-SA 3.0, non-commercial** |
+| Shadertoy: Worlds | 6 | **CC BY-NC-SA 3.0, non-commercial** |
+
+Each look names its author, its source and its licence at its top, and
+again in `packs.json`. They are **not** under the EUPL like the graphs:
+
+- **The MilkDrop presets** come from the "cream of the crop" collection the
+  [projectM](https://github.com/projectM-visualizer/presets-cream-of-the-crop)
+  project gathered from the MilkDrop community, where presets have always
+  been shared freely. Each stays its author's.
+- **The open shaders** are under the licence written in their own source:
+  CC0, MIT or CC BY 4.0. Keep the notice when you share them.
+- **The two packs marked non-commercial** are under Shadertoy's default
+  licence, [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/):
+  use them in shows and share them, credited, but not for money (not in a
+  paid product, not in paid work), and share a changed one on the same
+  terms. The studio marks these packs and their looks in amber.
+
+What was changed: every shader has a few lines at the end of its Image pass,
+marked, that swell it on the beat and lift its light with the bass, as far
+as the deck's amount knob says (at 0 it is the shader as it was). Presets
+that barely moved with the music have two per-frame lines, noted in the
+file's header, so the bass swells their zoom and the treble their turn. A
+shader that reads the mouse can be steered from the deck. Five that
+misbehaved in the studio were left out.
+
+`packs.json`:
+
+```json
+{"packs": 1, "list": [
+  {"id": "milkdrop-tunnels", "name": "MilkDrop: Tunnels & radial", "kind": "milkdrop",
+   "description": "One sentence.", "licence": "...", "noncommercial": false,
+   "items": [{"file": "Tunnel race.milk", "name": "Tunnel race", "author": "martin",
+              "licence": "...", "sha256": "<the file's>", "tags": [], "note": "what was changed"}]}
+]}
+```
+
+A look's file name is letters, digits, spaces and `. _ ( ) + & , ' -`,
+ending `.milk` or `.glsl`, within 512 KB; the check holds packs to this.
