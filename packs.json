@@ -266,6 +266,376 @@
    ]
   },
   {
+   "id": "milkdrop-cosmic",
+   "name": "MilkDrop: Cosmic & orbits",
+   "kind": "milkdrop",
+   "description": "Suns, novas, orbits and star forges - light on black for the big moments.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Destroy me.milk",
+     "name": "Destroy me",
+     "author": "Phat + EoS",
+     "licence": "shared freely, credited",
+     "sha256": "2d382247f3b498e9ad2e913a8a79f8c76ed1bcd1303342de4850bb2b34eb987d",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Nova sunrise.milk",
+     "name": "Nova sunrise",
+     "author": "ORB",
+     "licence": "shared freely, credited",
+     "sha256": "ceea790d06cdf2a073093ff1d6b06d14f4d840fa9283a51f8aa05a8f352597c1",
+     "note": ""
+    },
+    {
+     "file": "Desmond axis 2.milk",
+     "name": "Desmond axis 2",
+     "author": "EVET",
+     "licence": "shared freely, credited",
+     "sha256": "e464d27480439e0e5c34b76f202cb6094f8f2404cf2b304d452df1d3126a4309",
+     "note": ""
+    },
+    {
+     "file": "Autumn leaves.milk",
+     "name": "Autumn leaves",
+     "author": "martin",
+     "licence": "shared freely, credited",
+     "sha256": "bc289371e206ccc3a70a9f2d9c80ab8c416672e41ad559085c0471f8c7a4ef18",
+     "note": ""
+    },
+    {
+     "file": "Apocalypse C.milk",
+     "name": "Apocalypse C",
+     "author": "EoS",
+     "licence": "shared freely, credited",
+     "sha256": "d4140384b8b57d63bf3289d1d36a1af937d63d4288d2043c8e08ecbb240bd75d",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Bombyx mori.milk",
+     "name": "Bombyx mori",
+     "author": "Flexi, AdamFX, StahlRegen, Krash, Rovastar (tribute to martin)",
+     "licence": "shared freely, credited",
+     "sha256": "2fbe6fe061d8551bc7db70cd0b8e3d24bd7a0ec4e69203887435c772a7627445",
+     "note": ""
+    },
+    {
+     "file": "Randombox.milk",
+     "name": "Randombox",
+     "author": "EoS + Phat",
+     "licence": "shared freely, credited",
+     "sha256": "5fdb5e912bbff9075f126822c3c38f30f837842c24b7f9d818797ae1a107c7f0",
+     "note": ""
+    },
+    {
+     "file": "Star forge v12b.milk",
+     "name": "Star forge v12b",
+     "author": "Fumbling_Foo & Flexi, Martin, Orb",
+     "licence": "shared freely, credited",
+     "sha256": "616213667d7706f4875e41ecfbd16e4c849e84e64e433bcb6d2518f079981ed4",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    }
+   ]
+  },
+  {
+   "id": "milkdrop-neon-wire",
+   "name": "MilkDrop: Neon & wire",
+   "kind": "milkdrop",
+   "description": "Spirographs, spirals and glowing wires drawn from the sound's own wave.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Hypnotron.milk",
+     "name": "Hypnotron",
+     "author": "Stahlregen + Shifter + Flexi",
+     "licence": "shared freely, credited",
+     "sha256": "4c5780433fae97535799af04608f5898a427335501d0b5342f15b87021121544",
+     "note": ""
+    },
+    {
+     "file": "Arched spirograph.milk",
+     "name": "Arched spirograph",
+     "author": "unknown",
+     "licence": "shared freely, credited",
+     "sha256": "4f0adc8223d152a70a37a64c7e58f7ffd410027e9216e5726b4e5d663eeb651b",
+     "note": ""
+    },
+    {
+     "file": "Mvfun 2.milk",
+     "name": "Mvfun 2",
+     "author": "Fvese",
+     "licence": "shared freely, credited",
+     "sha256": "e9dd1a970c56a7a6e3b7c587e1b905c9cae0650625652fa7d5d45ebf32df262d",
+     "note": ""
+    },
+    {
+     "file": "Ambitions.milk",
+     "name": "Ambitions",
+     "author": "MegalomaGreg + Flexi (Isosceles edit)",
+     "licence": "shared freely, credited",
+     "sha256": "00049844d4d9f09feba76976673d4b297fbbe491ec9acd1855e655a0121553bd",
+     "note": ""
+    },
+    {
+     "file": "Royal mashup 399.milk",
+     "name": "Royal mashup 399",
+     "author": "$$$ Royal",
+     "licence": "shared freely, credited",
+     "sha256": "f0bcbba105c482945b7eab7332f49d144ec94de7e1adfc3d6deef42669020b0f",
+     "note": ""
+    },
+    {
+     "file": "3D gravity waves.milk",
+     "name": "3D gravity waves",
+     "author": "EVET",
+     "licence": "shared freely, credited",
+     "sha256": "0a01452e6a93cf58ebeb5b31723fb60d59276db78491b2b1945629b3358b4e7b",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Space gelatine burst.milk",
+     "name": "Space gelatine burst",
+     "author": "flexi, stahlregen, geiss + tobias wolfboi",
+     "licence": "shared freely, credited",
+     "sha256": "c0cb169a11d6bcd8a02330741021c8e9116fcff67aba3a8e476e6d0ca14ec977",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Volume zoom.milk",
+     "name": "Volume zoom",
+     "author": "Isosceles",
+     "licence": "shared freely, credited",
+     "sha256": "65fd4f5155f9ac0438a901085169b3c4178ea2f16f5aa85ed5c3041120d38c97",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    }
+   ]
+  },
+  {
+   "id": "milkdrop-psychedelic",
+   "name": "MilkDrop: Psychedelic",
+   "kind": "milkdrop",
+   "description": "Acid colour, folding fractals and grooves - loud, saturated, never still.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Jokulars.milk",
+     "name": "Jokulars",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "sha256": "ece4b7ee332cd07b96f9d87e0e6edc8644477385c037e2f089aecda4ed793a6d",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Colour pox (acid impression).milk",
+     "name": "Colour pox (acid impression)",
+     "author": "Geiss",
+     "licence": "shared freely, credited",
+     "sha256": "ee5ad9eedcbf6235a70a075f14ace22280a0060199fc0690d218a39144bd6871",
+     "note": ""
+    },
+    {
+     "file": "Twisted glowsticks.milk",
+     "name": "Twisted glowsticks",
+     "author": "AdamFX + martin, Hexocollie, Flexi",
+     "licence": "shared freely, credited",
+     "sha256": "ba0cc8309ed6dead03712316923c202cdc241ca053a36227d99e165d51e646d7",
+     "note": ""
+    },
+    {
+     "file": "Another kind of groove.milk",
+     "name": "Another kind of groove",
+     "author": "AdamFX + martin, Hexocollie",
+     "licence": "shared freely, credited",
+     "sha256": "5fe79091281bae4a844efecd72313f9971f073c96cf4713a16c3a8c6d50a9a6b",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Gimmie colour.milk",
+     "name": "Gimmie colour",
+     "author": "AdamFX + martin, Lodus, Geiss, EoS, Flexi",
+     "licence": "shared freely, credited",
+     "sha256": "85aade5e09109b4bbdeb2bbafa345439b6179a63d6eb778bcd441ac58c8a8b7d",
+     "note": ""
+    },
+    {
+     "file": "Microscopic things.milk",
+     "name": "Microscopic things",
+     "author": "rce-ordinary",
+     "licence": "shared freely, credited",
+     "sha256": "766d0b4292d855daa5a0a14bdf7507de9f4eeab52b881fdc1cf0e1819ee6e528",
+     "note": ""
+    },
+    {
+     "file": "Reacflamafishustropica.milk",
+     "name": "Reacflamafishustropica",
+     "author": "LuxXx",
+     "licence": "shared freely, credited",
+     "sha256": "c8ae5cc3c08e626271224b783269dc82d8d94d0269d873b677bb494f5741c657",
+     "note": ""
+    },
+    {
+     "file": "Three layer overlap.milk",
+     "name": "Three layer overlap",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "sha256": "6a114a090a9e3b8212842bb2c2af82cd65a110b2f6712f8526787aa8f06487cf",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    }
+   ]
+  },
+  {
+   "id": "milkdrop-ripples",
+   "name": "MilkDrop: Ripples & clouds",
+   "kind": "milkdrop",
+   "description": "Liquid ripples, fog and soft folds - the calm between the drops.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Tricolors.milk",
+     "name": "Tricolors",
+     "author": "TonyMilkdrop + Flexi (Isosceles edit)",
+     "licence": "shared freely, credited",
+     "sha256": "3508efec53a58c30f3b4e2d384a30cb725d19e3fec05001b23e44e88b1f0a5f2",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Nuclear help out.milk",
+     "name": "Nuclear help out",
+     "author": "TonyMilkdrop + Flexi (Isosceles edit)",
+     "licence": "shared freely, credited",
+     "sha256": "4534b6e4b56794acd426c8078bb4bd8363c44d4a316166583567ad43a035bce1",
+     "note": ""
+    },
+    {
+     "file": "Berry maddog.milk",
+     "name": "Berry maddog",
+     "author": "Chemlock",
+     "licence": "shared freely, credited",
+     "sha256": "3f2eeb4468ecdb790e230e68536445c6c89c793e5aa76219d985343c79afb0d0",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Foggy notation.milk",
+     "name": "Foggy notation",
+     "author": "martin + AdamFX, EoS",
+     "licence": "shared freely, credited",
+     "sha256": "a2b66894b782eff0810477635509e90d51069c34d07c05483d605f0435e54e81",
+     "note": ""
+    },
+    {
+     "file": "Aetranal phlam.milk",
+     "name": "Aetranal phlam",
+     "author": "unknown",
+     "licence": "shared freely, credited",
+     "sha256": "0eac9784b985876326708b330bb4c9737f9d83036ff611c596c2b6ae53029e31",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Mind lunch.milk",
+     "name": "Mind lunch",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "sha256": "7eaf0424d08e2753ee45842ade54dfdaf9aee8a5b040ffbf928e2c42ab69bff3",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Entertaining eminence.milk",
+     "name": "Entertaining eminence",
+     "author": "Halfbreak",
+     "licence": "shared freely, credited",
+     "sha256": "f88b3cd6e7e989e47f20a47cd76a4170dfa45b383f05bfa6a0519d4b6fada11c",
+     "note": ""
+    },
+    {
+     "file": "Green machinery.milk",
+     "name": "Green machinery",
+     "author": "amandio c",
+     "licence": "shared freely, credited",
+     "sha256": "47e18861afe8538990da7236f51308edec17f8ed41be52b3b7cfe5ffe7fae99d",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "milkdrop-particles",
+   "name": "MilkDrop: Particles & sparks",
+   "kind": "milkdrop",
+   "description": "Swarms, sparks, bursts and growing things - busy and bright.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Funnels (jelly).milk",
+     "name": "Funnels (jelly)",
+     "author": "Zylot",
+     "licence": "shared freely, credited",
+     "sha256": "4511e5bdb603ae8ffcdee70adab1bfa20fe0431b58a99de8455651caaa1db78b",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Sparks WIP.milk",
+     "name": "Sparks WIP",
+     "author": "LuxXx",
+     "licence": "shared freely, credited",
+     "sha256": "28d852698c575cde551a0f081f06ecbdd192d99dcab12f6c66b9329aa2868233",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Chernobyl pie.milk",
+     "name": "Chernobyl pie",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "sha256": "9ad1dc30e76ba216134dd7283ed737c5e8267778c56a83b4fe994a0302476663",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Bombasticasm.milk",
+     "name": "Bombasticasm",
+     "author": "unknown",
+     "licence": "shared freely, credited",
+     "sha256": "98e7f2232aca21de620aee7bfc04cb7900b4aaf9addbb84de33182592a171205",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Pole.milk",
+     "name": "Pole",
+     "author": "amandio c",
+     "licence": "shared freely, credited",
+     "sha256": "44720998643c79862ca269fb0b4a7098c0725e4fc9097ddcbafb58aafc6204c3",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Fake rivals.milk",
+     "name": "Fake rivals",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "sha256": "208cccf0bbbe91b54c646c5a5ead809e2accdf3eb8cbfff5d38434ba4c2a7b46",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Going processing.milk",
+     "name": "Going processing",
+     "author": "Flexi",
+     "licence": "shared freely, credited",
+     "sha256": "148c217a99c467d438bf285162ccbf079dd3e57c7d0236568f03baafced7a632",
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)"
+    },
+    {
+     "file": "Agar seances.milk",
+     "name": "Agar seances",
+     "author": "shiter redi jedi",
+     "licence": "shared freely, credited",
+     "sha256": "1e9b9926ca21f129dea2e2621d3eef5a400299225e483eeb13c73935b78935dd",
+     "note": ""
+    }
+   ]
+  },
+  {
    "id": "shadertoy-raymarched",
    "name": "Shadertoy: Raymarched",
    "kind": "shadertoy",
@@ -557,6 +927,507 @@
      "author": "nayk",
      "licence": "CC BY-NC-SA 3.0",
      "sha256": "eb3237243aef11bfccb21f37927b1b53cc0a5d0219624957afb1703cd9bc56e7",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    }
+   ]
+  },
+  {
+   "id": "shadertoy-light-space",
+   "name": "Shadertoy: Light & space",
+   "kind": "shadertoy",
+   "description": "Starbursts, auroras, nebulae and neon - open licences (CC0, MIT).",
+   "licence": "each shader its author's: CC0, MIT",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Starburst by otaviogood.glsl",
+     "name": "Starburst (otaviogood)",
+     "author": "otaviogood",
+     "licence": "CC0",
+     "sha256": "4d5dc34adc432d34063071b130b73f0269b1d76bf2a00f40b6804b77b42cea1c",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Light rays by morimea.glsl",
+     "name": "Light rays (morimea)",
+     "author": "morimea",
+     "licence": "CC0",
+     "sha256": "c1988dd014b3e0bedb89d4f4f126ff30d5bdd904c34bb495cb4217e5763df351",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Neon flower by iq.glsl",
+     "name": "Neon flower (iq)",
+     "author": "iq",
+     "licence": "MIT",
+     "sha256": "a9eb0600ed8d12ec9c917d416e746231bc71fc49b2c56168b683fa72567ace99",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Aurora by butadiene.glsl",
+     "name": "Aurora (butadiene)",
+     "author": "butadiene",
+     "licence": "MIT",
+     "sha256": "f1c69fa4a9cdc6d2ce233c0a10ee46abf752220ad19d158b28acb20709081470",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Tree of lights by piyushslayer.glsl",
+     "name": "Tree of lights (piyushslayer)",
+     "author": "piyushslayer",
+     "licence": "CC0",
+     "sha256": "291fc31571cfcef05130cc7421fa23dd8163e5ca487741c2dcb966223c1cff78",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Nebula by mrange.glsl",
+     "name": "Nebula (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "93ce89c2ca816029470b393bac7fb5e2552a822fb7b3dd452ddb52f62af3dfc0",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Star field by mrange.glsl",
+     "name": "Star field (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "3ce53cbf83e869cdd6898a59e00505634e110774d6497c6c070fa8866f963fe3",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    }
+   ]
+  },
+  {
+   "id": "shadertoy-tiles-loops",
+   "name": "Shadertoy: Tiles & loops",
+   "kind": "shadertoy",
+   "description": "Truchet mazes, cells, spirals and plasma - open licences (CC0, MIT, CC BY).",
+   "licence": "each shader its author's: CC BY 4.0, CC0, MIT",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Soft cells by mrange.glsl",
+     "name": "Soft cells (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "95a8fb59b85194ccb4750f5e6bee96911ca6a34c77f0c3f1dec030c86fba7de2",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Triangle grid by gehtsiegarnixan.glsl",
+     "name": "Triangle grid (gehtsiegarnixan)",
+     "author": "gehtsiegarnixan",
+     "licence": "MIT",
+     "sha256": "e62bb015735d4e46e713b5d994293c9b5be3b7f88d723c2bf3a95b01f4987c27",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Truchet maze by mrange.glsl",
+     "name": "Truchet maze (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "948f27628b218c773b8e1480eb78c54bdd6eaaeb47bf50d9d2ebfe8ad80989ee",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Blue truchet by mrange.glsl",
+     "name": "Blue truchet (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "ef8ca91f6a9fe9c5444b09128fa83a4c783e363aefe9607532c1f3904480ace8",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Square spiral by IWBTShyGuy.glsl",
+     "name": "Square spiral (IWBTShyGuy)",
+     "author": "IWBTShyGuy",
+     "licence": "CC BY 4.0",
+     "sha256": "3ef814d3ced2cbfe0383eefbd802c161bd898da8462c70d92e31997423be476f",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Kaleido circles by mrange.glsl",
+     "name": "Kaleido circles (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "866f4edc44b81a40c10d43b88105d39b6e56f88b6b9a7451027ea3c5a38ee040",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Plasma grid by gehtsiegarnixan.glsl",
+     "name": "Plasma grid (gehtsiegarnixan)",
+     "author": "gehtsiegarnixan",
+     "licence": "MIT",
+     "sha256": "97ad6577045d311bc0566c791d544efe4cdc7091fe3728770fe5b8b891d12af6",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Spiral tunnel by mrange.glsl",
+     "name": "Spiral tunnel (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "1b5db04562ad1e3a2c34220d1e26d9d776807fc94012f894c33fab7fe839df47",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    }
+   ]
+  },
+  {
+   "id": "shadertoy-scenes",
+   "name": "Shadertoy: Scenes",
+   "kind": "shadertoy",
+   "description": "Little 3D places - a canyon, a cave, a city of cubes, a pool - open licences (CC0, CC BY).",
+   "licence": "each shader its author's: CC BY 4.0, CC0",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Molecules by blackle.glsl",
+     "name": "Molecules (blackle)",
+     "author": "blackle",
+     "licence": "CC0",
+     "sha256": "7bc3cf21accd394bb73e6b91289ee6124abff40c317f0467d0b07685924b1d87",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Cube city by spqr.glsl",
+     "name": "Cube city (spqr)",
+     "author": "spqr",
+     "licence": "CC0",
+     "sha256": "09dc32af2faf7ca433287f1fc6384ff5904f4a07013d151a2fada3f343b52d66",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Light tunnel by otaviogood.glsl",
+     "name": "Light tunnel (otaviogood)",
+     "author": "otaviogood",
+     "licence": "CC0",
+     "sha256": "e6e66c97febc9442692db5fa0351d8ddc4f5174ab49d47d1510aa3ac012f80ff",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Canyon flight by otaviogood.glsl",
+     "name": "Canyon flight (otaviogood)",
+     "author": "otaviogood",
+     "licence": "CC0",
+     "sha256": "691a183093dbbd614e03c7d36418a466783a0cb201e6ab965878f0e76ad73173",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Crystal cave by mrange.glsl",
+     "name": "Crystal cave (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "e08f03e8033a910f45cdc66fd5bfe19af63a91c1356dbbcb220aead2260f79ab",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Cube hexes by mrange.glsl",
+     "name": "Cube hexes (mrange)",
+     "author": "mrange",
+     "licence": "CC0",
+     "sha256": "3612ecdfefb59aa1c11811d6cea6e80a82fd56f7f96fe68dfc83ac9f26772aee",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Torus knot by otaviogood.glsl",
+     "name": "Torus knot (otaviogood)",
+     "author": "otaviogood",
+     "licence": "CC0",
+     "sha256": "872a79ea9d2c0f658481cf840bd2b350f5a3d5a383f7c56195a6ea804c9590d0",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Pool water by lush3dash1.glsl",
+     "name": "Pool water (lush3dash1)",
+     "author": "lush3dash1",
+     "licence": "CC BY 4.0",
+     "sha256": "c92c9e7725686643421d125ca8203495e41920b17282c6c4afb40b411f98bd14",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    }
+   ]
+  },
+  {
+   "id": "shadertoy-neon-nc",
+   "name": "Shadertoy: Neon & stars",
+   "kind": "shadertoy",
+   "description": "Glowing stars, trochoids and dancing shapes on black - Creative Commons BY-NC-SA: for shows and sharing, not for sale.",
+   "licence": "CC BY-NC-SA 3.0 (non-commercial, share-alike) - each shader its author's",
+   "noncommercial": true,
+   "items": [
+    {
+     "file": "star in space 4 by nayk.glsl",
+     "name": "star in space 4 (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "90c07ad820bc46f549cf8529bf772600171e7d9a18d2d778347ff1dcaf5bacd7",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "spiralic rotation eye by nayk.glsl",
+     "name": "spiralic rotation eye (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "3e486dae4458df238f31e9030cd2c0b80617ca805cf4745ccddac8b099d7c107",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Parametric Trochoid by sanblu.glsl",
+     "name": "Parametric Trochoid (sanblu)",
+     "author": "sanblu",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "73346bdd81671cab0625269d5e37599698303ccbd225c8d6e1367f9e3052d133",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "star rotation by nayk.glsl",
+     "name": "star rotation (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "27a2454ea119f76635c03ed7bfbc6b907d09c5b446ef6f6b4eeae20e67a16fef",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "2D SDF Dance II by dray.glsl",
+     "name": "2D SDF Dance II (dray)",
+     "author": "dray",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "5f7b52b0c52ddf0428c1e56bd43282d18653b522f537c9082fade8e31782b840",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "another regular polygon by jonasfrey.glsl",
+     "name": "another regular polygon (jonasfrey)",
+     "author": "jonasfrey",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "cebced87eddeac36b895cb773abb6a86129a2dcdb9f562c5d1dd821cb248d85a",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "triangle thing 2 by jonasfrey.glsl",
+     "name": "triangle thing 2 (jonasfrey)",
+     "author": "jonasfrey",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "6e1534981e8b823ab560eb574d404f249d977be0f09f492de7d7f56a4b5364d2",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "2D SDF Dance remake by nayk.glsl",
+     "name": "2D SDF Dance remake (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "17254e7c4a2a21f5e1dedb27d93497fc7495b11f00897a6c53f062add020749b",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    }
+   ]
+  },
+  {
+   "id": "shadertoy-deep-space-nc",
+   "name": "Shadertoy: Deep space",
+   "kind": "shadertoy",
+   "description": "Galaxies, mandalas of light and floating machines - Creative Commons BY-NC-SA: for shows and sharing, not for sale.",
+   "licence": "CC BY-NC-SA 3.0 (non-commercial, share-alike) - each shader its author's",
+   "noncommercial": true,
+   "items": [
+    {
+     "file": "shining mandala by nayk.glsl",
+     "name": "shining mandala (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "b74b187fd53872fbc96b33437bb24f29c6381fa7be346afa309466d62c2dac95",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Chromatin by wyatt.glsl",
+     "name": "Chromatin (wyatt)",
+     "author": "wyatt",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "ba3f71544172644202e67de56d383793207a2a3b436ca3926bb1b2bd06bb0c0b",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "other shine star by nayk.glsl",
+     "name": "other shine star (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "75db3de5fffb31be96e2baba673e38030b0816b9b5d34cabba9c7e3d5e227ef8",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "menger transformation by nayk.glsl",
+     "name": "menger transformation (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "b2f6d18dc9d6d3385a98c2ba60032884d7e8cd739d4597151fe7b8c51784ae75",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Floating Eye Monitor by TheBen27.glsl",
+     "name": "Floating Eye Monitor (TheBen27)",
+     "author": "TheBen27",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "d9269ac42d733d6768a7a99f457cb9f39de428670684efaa6b220040ad527813",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "other galaxy by nayk.glsl",
+     "name": "other galaxy (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "dd4b540405ad3fbd7d4c162ce342f0b4f067b17674277fd658f68ef9063224bf",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Adventure by wyatt.glsl",
+     "name": "Adventure (wyatt)",
+     "author": "wyatt",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "e99963149840ecb9538e95927e866cfac826ab8ed41d43eeed6bf5735a06ad50",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "molecule RST by nayk.glsl",
+     "name": "molecule RST (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "40a5ed0e20e91fe54276d26b2f33c30f39bbc20c4ed8707a221c2513a1500bdb",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    }
+   ]
+  },
+  {
+   "id": "shadertoy-op-art-nc",
+   "name": "Shadertoy: Op art",
+   "kind": "shadertoy",
+   "description": "Black and white, grids, lines and cells that trick the eye - Creative Commons BY-NC-SA: for shows and sharing, not for sale.",
+   "licence": "CC BY-NC-SA 3.0 (non-commercial, share-alike) - each shader its author's",
+   "noncommercial": true,
+   "items": [
+    {
+     "file": "Grid study by brendanluu.glsl",
+     "name": "Grid study (brendanluu)",
+     "author": "brendanluu",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "bb01ba27d1d6bc6d576fff6cfb4cbc11657e1f89f635967b0da77959397f7e22",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Voronoi Edges Artwork 1 Y28 by Yusef28.glsl",
+     "name": "Voronoi Edges Artwork #1 Y28 (Yusef28)",
+     "author": "Yusef28",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "9ac3863d7fad68ca617d73a98af828bf82152239a053c69ca867688923ed7ef1",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "2d light design test by yasuo.glsl",
+     "name": "2d light design test (yasuo)",
+     "author": "yasuo",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "fc16921e5126da17b3be558937e37ff41b141c758724fa67a71180993e16a734",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "sci-fi lines by nayk.glsl",
+     "name": "sci-fi lines (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "3e7a8b2204decde30860f07b97dbcdc3cdb7a360dc655d44fbfe3a895d56d01e",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "black and white3 by nayk.glsl",
+     "name": "black and white3 (nayk)",
+     "author": "nayk",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "c4654d84cd2445beb929c96d0b5bb76eeca6b01ad3cb0cc065f9cfd71a061dcd",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "Frame t 2 by shadertoyjiang.glsl",
+     "name": "Frame t 2 (shadertoyjiang)",
+     "author": "shadertoyjiang",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "db6b3ee3cb7d3abce1f2c0106507fbdd1dc47453a64c7a1883270ef12f8a79ee",
+     "tags": [
+      "steer"
+     ],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was); it reads the mouse - steer it on the deck"
+    },
+    {
+     "file": "Grid study 2 by brendanluu.glsl",
+     "name": "Grid study 2 (brendanluu)",
+     "author": "brendanluu",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "e0d0cde2d1f03b867e43d2103d289791edc3401d6a94aca3ce7f5a9ab8e8b042",
+     "tags": [],
+     "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
+    },
+    {
+     "file": "grid loop circle square by jonasfrey.glsl",
+     "name": "grid loop circle square (jonasfrey)",
+     "author": "jonasfrey",
+     "licence": "CC BY-NC-SA 3.0",
+     "sha256": "e3471378fcfedfffecdf14e81516f4c0efe97b417a79dbf1903a68e9c1aa5c6d",
      "tags": [],
      "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
     }

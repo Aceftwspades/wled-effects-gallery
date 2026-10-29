@@ -67,10 +67,21 @@ computer, and removes them the same way.
 | MilkDrop: Kaleidoscopes & mirrors | 7 | each preset its author's, shared freely |
 | MilkDrop: Liquid & fire | 5 | each preset its author's, shared freely |
 | MilkDrop: Shapes & waves | 9 | each preset its author's, shared freely |
+| MilkDrop: Cosmic & orbits | 8 | each preset its author's, shared freely |
+| MilkDrop: Neon & wire | 8 | each preset its author's, shared freely |
+| MilkDrop: Psychedelic | 8 | each preset its author's, shared freely |
+| MilkDrop: Ripples & clouds | 8 | each preset its author's, shared freely |
+| MilkDrop: Particles & sparks | 8 | each preset its author's, shared freely |
 | Shadertoy: Raymarched | 7 | CC0, MIT |
-| Shadertoy: Colour & flow | 6 | CC0, MIT, CC BY 4.0 |
+| Shadertoy: Colour & flow | 6 | CC BY 4.0, CC0, MIT |
 | Shadertoy: Patterns & kaleidoscopes | 8 | **CC BY-NC-SA 3.0, non-commercial** |
 | Shadertoy: Worlds | 6 | **CC BY-NC-SA 3.0, non-commercial** |
+| Shadertoy: Light & space | 7 | CC0, MIT |
+| Shadertoy: Tiles & loops | 8 | CC BY 4.0, CC0, MIT |
+| Shadertoy: Scenes | 8 | CC BY 4.0, CC0 |
+| Shadertoy: Neon & stars | 8 | **CC BY-NC-SA 3.0, non-commercial** |
+| Shadertoy: Deep space | 8 | **CC BY-NC-SA 3.0, non-commercial** |
+| Shadertoy: Op art | 8 | **CC BY-NC-SA 3.0, non-commercial** |
 
 Each look names its author, its source and its licence at its top, and
 again in `packs.json`. They are **not** under the EUPL like the graphs:
@@ -81,7 +92,7 @@ again in `packs.json`. They are **not** under the EUPL like the graphs:
   been shared freely. Each stays its author's.
 - **The open shaders** are under the licence written in their own source:
   CC0, MIT or CC BY 4.0. Keep the notice when you share them.
-- **The two packs marked non-commercial** are under Shadertoy's default
+- **The packs marked non-commercial** are under Shadertoy's default
   licence, [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/):
   use them in shows and share them, credited, but not for money (not in a
   paid product, not in paid work), and share a changed one on the same
@@ -92,8 +103,8 @@ marked, that swell it on the beat and lift its light with the bass, as far
 as the deck's amount knob says (at 0 it is the shader as it was). Presets
 that barely moved with the music have two per-frame lines, noted in the
 file's header, so the bass swells their zoom and the treble their turn. A
-shader that reads the mouse can be steered from the deck. Five that
-misbehaved in the studio were left out.
+shader that reads the mouse can be steered from the deck. Shaders that
+misbehaved in the studio, or sat dark or still, were left out.
 
 `packs.json`:
 
