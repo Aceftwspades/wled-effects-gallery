@@ -1,0 +1,76 @@
+// Star gate by WLED Effects Studio - CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+// a six-armed star whose arms turn at the music's pace and lengthen with the bass
+// Written for the studio's VJ, with an AI (Claude): made to move with the music - its motion winds on at the
+// pace of the bass, mid or treble, and a hit pushes its zoom or its turn.
+[preset00]
+fRating=3
+fGammaAdj=1.0
+fDecay=0.935
+fVideoEchoZoom=1
+fVideoEchoAlpha=0
+nVideoEchoOrientation=0
+nWaveMode=3
+bAdditiveWaves=0
+bWaveDots=0
+bWaveThick=1
+bModWaveAlphaByVolume=0
+bMaximizeWaveColor=1
+bTexWrap=1
+bDarkenCenter=0
+bRedBlueStereo=0
+bBrighten=0
+bDarken=0
+bSolarize=0
+bInvert=0
+fWaveAlpha=0.85
+fWaveScale=1.3
+fWaveSmoothing=0.6
+fWaveParam=0
+fModWaveAlphaStart=0.75
+fModWaveAlphaEnd=0.95
+fWarpAnimSpeed=1
+fWarpScale=1
+fZoomExponent=1
+fShader=0
+zoom=1
+rot=0
+cx=0.5
+cy=0.5
+dx=0
+dy=0
+warp=0
+sx=1
+sy=1
+wave_r=0.6
+wave_g=0.6
+wave_b=0.6
+wave_x=0.5
+wave_y=0.5
+ob_size=0
+ob_r=0
+ob_g=0
+ob_b=0
+ob_a=0
+ib_size=0
+ib_r=0
+ib_g=0
+ib_b=0
+ib_a=0
+nMotionVectorsX=0
+nMotionVectorsY=0
+mv_dx=0
+mv_dy=0
+mv_l=0
+mv_r=1
+mv_g=1
+mv_b=1
+mv_a=0
+per_frame_1=wave_r = 0.5 + 0.5*sin(time*1.31 + 4.4);
+per_frame_2=wave_g = 0.5 + 0.5*sin(time*1.73 + 4.4 + 2.1);
+per_frame_3=wave_b = 0.5 + 0.5*sin(time*2.09 + 4.4 + 4.2);
+per_frame_4=ph = ph + 0.035*(bass + treb)*0.5;
+per_frame_5=q1 = ph;
+per_frame_6=q2 = 0.03 + 0.05*bass_att;
+per_frame_7=zoom = 1.02;
+per_frame_8=rot = 0.01*sin(ph*0.3);
+per_pixel_1=zoom = zoom + q2*sin(ang*6 + q1*1.5)*rad;

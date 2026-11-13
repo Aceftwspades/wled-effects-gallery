@@ -1432,6 +1432,234 @@
      "note": "made to move with the music: the beat swells it, the bass lifts its light (by the deck's amount; at 0 it is as it was)"
     }
    ]
+  },
+  {
+   "id": "studio-audio-feedback",
+   "name": "Audio: Feedback & scopes",
+   "kind": "shadertoy",
+   "description": "MilkDrop's way in a shader - the last frame pulled, turned and warped by the music, the wave and the spectrum drawn over it. Made for the studio: every one moves with the sound.",
+   "licence": "CC0 - written for the studio, with an AI (Claude)",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Wave tunnel.glsl",
+     "name": "Wave tunnel",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "tunnel",
+      "scope"
+     ],
+     "note": "the wave as a ring, pulled toward you: harder with the bass, kicked on the beat, turned by the mid",
+     "sha256": "1041f7140324f8dec9a6baae3bba0a0aa9859f5f57ec8b8136caadcf555764bb"
+    },
+    {
+     "file": "Spectrum bloom.glsl",
+     "name": "Spectrum bloom",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "spectrum",
+      "flower"
+     ],
+     "note": "eight petals as long as the spectrum is loud, blooming outward: the bass opens it, the beat turns it",
+     "sha256": "704e8c1c9bd769c4a527a802f9aea4626a24a6a9302eee7a426705df5b7de6cb"
+    },
+    {
+     "file": "Liquid scope.glsl",
+     "name": "Liquid scope",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "scope",
+      "liquid"
+     ],
+     "note": "an oscilloscope line on water: the bass stirs the water, the level sets the wave's height",
+     "sha256": "8fc98c330366b1ff8a54bb77a54dea43575153f431d5002c469da8223dbcce1c"
+    },
+    {
+     "file": "Orbit trails.glsl",
+     "name": "Orbit trails",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "trails",
+      "spiral"
+     ],
+     "note": "three lights circling at the music's pace - the bass speeds them, the beat throws them wider - their trails spiralling out",
+     "sha256": "b73bbdfc597edb63d6c4d9b00ea0381b996b112ffde05fe1b6e5e21c98e43e6f"
+    },
+    {
+     "file": "Spark fountain.glsl",
+     "name": "Spark fountain",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "sparks",
+      "spectrum"
+     ],
+     "note": "sparks thrown from the middle, each as far as its band of the spectrum is loud, at the music's pace",
+     "sha256": "246f056fdf30e10df064466871925c5d03fe2b3a39577d2ffd5026cbab311208"
+    },
+    {
+     "file": "Kaleido scope.glsl",
+     "name": "Kaleido scope",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "kaleidoscope",
+      "scope"
+     ],
+     "note": "the wave folded six ways and fed back: the mid turns the mirror, the bass pulls it in",
+     "sha256": "a93f4ea0a82185f37d7ed707945a683859d54ac3d51082d6897881e1595428f7"
+    }
+   ]
+  },
+  {
+   "id": "studio-audio-geometry",
+   "name": "Audio: Spectrum & geometry",
+   "kind": "shadertoy",
+   "description": "The spectrum and the wave as shapes - a tunnel flown at the bass's speed, rings, bars, hexagons, a Lissajous figure. Bold enough for a few thousand LEDs; every one moves with the sound.",
+   "licence": "CC0 - written for the studio, with an AI (Claude)",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Bass tunnel.glsl",
+     "name": "Bass tunnel",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "tunnel",
+      "spectrum"
+     ],
+     "note": "a tunnel flown at the bass's speed, its rings as thick as the spectrum is loud, a lurch on the beat",
+     "sha256": "97036c144f73612ed2ecf14966ab87748443e157eecb010e1482e82d8efb280d"
+    },
+    {
+     "file": "Spectrum rings.glsl",
+     "name": "Spectrum rings",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "rings",
+      "spectrum"
+     ],
+     "note": "nine rings, each pushed out by its band of the spectrum, their dashes turning at the mid's pace",
+     "sha256": "333fe124b13ff65b959b803881296f161e50645e5b5af6481c97db27879078cd"
+    },
+    {
+     "file": "Equaliser.glsl",
+     "name": "Equaliser",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "bars",
+      "spectrum"
+     ],
+     "note": "the spectrum as bars from the middle out, in blocks, mirrored in a floor - the classic, made to be read on LEDs",
+     "sha256": "95a8fc38947d9d0eaf34daa98a82670c2e157a04222b1cc2193ff878eadca49b"
+    },
+    {
+     "file": "Plasma pulse.glsl",
+     "name": "Plasma pulse",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "plasma",
+      "colour"
+     ],
+     "note": "plasma whose folds tighten with the bass and flow at the music's pace, its colours pushed by the treble",
+     "sha256": "7eed22adf10512e067fb774d1defb6a61f044de13877be4b153fb064b6b9c75e"
+    },
+    {
+     "file": "Lissajous scope.glsl",
+     "name": "Lissajous scope",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "scope",
+      "lissajous"
+     ],
+     "note": "the wave against itself a quarter on - an X-Y scope's figure, as big as the music is loud, turning at the mid's pace",
+     "sha256": "fb3f11a78926e1f6aff9f2fc1ad74d8a064575dda3af1cd072f97e1a9e5b1153"
+    },
+    {
+     "file": "Hex pulse.glsl",
+     "name": "Hex pulse",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "hexagons",
+      "spectrum"
+     ],
+     "note": "a floor of hexagons, each as big as its band is loud - the bass in the middle, the treble at the edge - colour rolling outward at the music's pace",
+     "sha256": "e8bb4c50836c043a5edad4b5ca97479bb3988648a8e97ca5f54d73fefebeca93"
+    }
+   ]
+  },
+  {
+   "id": "studio-audio-milkdrop",
+   "name": "Audio: MilkDrop presets",
+   "kind": "milkdrop",
+   "description": "Six MilkDrop presets written for the studio: each winds on at the pace of the bass, the mid or the treble, and a hit pushes its zoom or its turn. They run without a graphics card.",
+   "licence": "CC0 - written for the studio, with an AI (Claude)",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Bass drive.milk",
+     "name": "Bass drive",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [],
+     "note": "rings pulled toward you at the bass's pace; a hit of bass lurches the pull, the treble turns it",
+     "sha256": "d86521ae0d2f4b4dee5d818624b37aab06b8d5498ce638c9adba87a1c7de3d27"
+    },
+    {
+     "file": "Treble twist.milk",
+     "name": "Treble twist",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [],
+     "note": "a line across the middle, twisted into a spiral: the treble sets how hard, the mid which way it drifts",
+     "sha256": "cabc8ee82f53e7336dfb4768c853f3ba660d428eaaa499a6ed009bc95a09cc8d"
+    },
+    {
+     "file": "Mid swirl.milk",
+     "name": "Mid swirl",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [],
+     "note": "smoke stirred by the mid: the picture slides along waves that travel at the music's pace",
+     "sha256": "c156445f8984a6af739fa8748e12da13ef9ffab5e12cc37c2c3cc8a53172d849"
+    },
+    {
+     "file": "Kick bloom.milk",
+     "name": "Kick bloom",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [],
+     "note": "a ring of the wave in the middle, each kick of bass throwing its last shape outward as a petal",
+     "sha256": "1d357ec798859a7dd9fba1e0553a386f4cc18bb848d91fdd47787cda8ab99cc1"
+    },
+    {
+     "file": "Star gate.milk",
+     "name": "Star gate",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [],
+     "note": "a six-armed star whose arms turn at the music's pace and lengthen with the bass",
+     "sha256": "a0f5f5da7586716a0cf27603530cbb5f6fa10dfbeca947d53cd4bdba9348db0e"
+    },
+    {
+     "file": "Slipstream.milk",
+     "name": "Slipstream",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [],
+     "note": "the wave as a line, swept sideways into ribbons: the bass sets the wind, the treble the ripple",
+     "sha256": "6b5f5e1f694d8d54388a21868a6edac9c1fa7999fefc42016b01c870381bbec0"
+    }
+   ]
   }
  ]
 }

@@ -82,6 +82,9 @@ computer, and removes them the same way.
 | Shadertoy: Neon & stars | 8 | **CC BY-NC-SA 3.0, non-commercial** |
 | Shadertoy: Deep space | 8 | **CC BY-NC-SA 3.0, non-commercial** |
 | Shadertoy: Op art | 8 | **CC BY-NC-SA 3.0, non-commercial** |
+| Audio: Feedback & scopes | 6 | CC0 - written for the studio |
+| Audio: Spectrum & geometry | 6 | CC0 - written for the studio |
+| Audio: MilkDrop presets | 6 | CC0 - written for the studio |
 
 Each look names its author, its source and its licence at its top, and
 again in `packs.json`. They are **not** under the EUPL like the graphs:
@@ -97,6 +100,12 @@ again in `packs.json`. They are **not** under the EUPL like the graphs:
   use them in shows and share them, credited, but not for money (not in a
   paid product, not in paid work), and share a changed one on the same
   terms. The studio marks these packs and their looks in amber.
+- **The Audio packs** were written for the studio, with an AI (Claude), and are
+  [CC0](https://creativecommons.org/publicdomain/zero/1.0/): do what you like
+  with them. They borrow MilkDrop's ideas - the last frame fed back and
+  warped, the wave and the spectrum drawn over it - not anyone's preset or
+  shader, and each is built round the sound: the bass, mid and treble set
+  how fast it moves and how far, never only how bright it is.
 
 What was changed: every shader has a few lines at the end of its Image pass,
 marked, that swell it on the beat and lift its light with the bass, as far
