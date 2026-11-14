@@ -1824,6 +1824,224 @@
      "sha256": "6b5f5e1f694d8d54388a21868a6edac9c1fa7999fefc42016b01c870381bbec0"
     }
    ]
+  },
+  {
+   "id": "milkdrop-waveforms",
+   "name": "MilkDrop: Waveforms & spectrum",
+   "kind": "milkdrop",
+   "description": "The sound itself, drawn: rings, flowers and lines of the wave, and two plain spectrum presets - the most directly musical of MilkDrop.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Ohm to the stars.milk",
+     "name": "Ohm to the stars",
+     "author": "yin",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "59ddda4c8300218f02e434d6c0018fac17ca39bee765c8d7a74120da1334462d"
+    },
+    {
+     "file": "Bass with flower.milk",
+     "name": "Bass with flower",
+     "author": "Vovan",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "d18115ca228eb086c9f83e220fc913d4a694ab166daddf5207c9a3e86d2836e0"
+    },
+    {
+     "file": "Twist (Vortex).milk",
+     "name": "Twist (Vortex)",
+     "author": "Stahlregen & Geiss + Idiot24-7 + Illusion + Zylot",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "e8bef5b31e289ce818ddfefbb26686c02b24298c0033aaed088f14df84f6b6fe"
+    },
+    {
+     "file": "Digitally frosted.milk",
+     "name": "Digitally frosted",
+     "author": "Stahlregen",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "9e9e40d49b7ba1010b787dcb0a46b76821ad346da58a1fd85d8ae6ef2f9eeca7"
+    },
+    {
+     "file": "Acid cycle.milk",
+     "name": "Acid cycle",
+     "author": "ORB",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "bb3f02bb641d064eaac261ada748227450f0fdbd99038ef5c1b838887de81faa"
+    },
+    {
+     "file": "Explosion.milk",
+     "name": "Explosion",
+     "author": "Flexi",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "aba66750283b390f861a02b4fcec375086e3aeb5304f59bce9be25d400554751"
+    },
+    {
+     "file": "Shifty (Trailscape).milk",
+     "name": "Shifty (Trailscape)",
+     "author": "Stahlregen & Che + Geiss + Illusion + Unchained",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "e8618a2263eb28bee97af4e49b706e28c9a0a164ec0fd6d6b298b2ee73813428"
+    },
+    {
+     "file": "Pulse (Dark).milk",
+     "name": "Pulse (Dark)",
+     "author": "Stahlregen",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "3354c242dd674b2d2275dd3232f5abcc1f1ce89cb1e80055f23912fdb26da257"
+    },
+    {
+     "file": "Chromatic abyss.milk",
+     "name": "Chromatic abyss",
+     "author": "Aderrasi",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "dbc7af78d068449c50bc98d6a7d6649a8c9928ec9cb52ef62e0539c8572a45a3"
+    },
+    {
+     "file": "Simple frequency spectrum.milk",
+     "name": "Simple frequency spectrum",
+     "author": "raron",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "ed077dc64ca63d2b6cc05566d8218f0f7cbb39c38d90dfa41bf88479a0e24071"
+    },
+    {
+     "file": "Frequency spectrum (Jelly).milk",
+     "name": "Frequency spectrum (Jelly)",
+     "author": "raron",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "4b465273ea8cb8ae306bf26ebf680b13b19256f5e6e29d354774659c0f01e31a"
+    }
+   ]
+  },
+  {
+   "id": "milkdrop-supernova",
+   "name": "MilkDrop: Supernova & dancers",
+   "kind": "milkdrop",
+   "description": "Suns that burst with the bass, laser lines that are the wave, and figures thrown about by the beat - for the peaks.",
+   "licence": "its author's, shared freely since MilkDrop (projectM's cream-of-the-crop pack); credit kept",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Betelgeuse.milk",
+     "name": "Betelgeuse",
+     "author": "fiShbRaiN",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "c95ba2102811001be50a4ba904e23ba3bda13faf607ed58377f6f0dbb560160c"
+    },
+    {
+     "file": "Lasershow (stress point).milk",
+     "name": "Lasershow (stress point)",
+     "author": "GreatWho + Hexcollie",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "d2d51ee92266dc0a596a84933e08a7337e8fec62d64a918ffa94db6269f43a52"
+    },
+    {
+     "file": "Lasershow (burning down).milk",
+     "name": "Lasershow (burning down)",
+     "author": "GreatWho + goodie",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "47946827be5e5ebc059d2bbdec4e06d4eb1f948694ba7f9ac30bfc0d6e5e6eff"
+    },
+    {
+     "file": "We have decided.milk",
+     "name": "We have decided",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "1ea428ca7cdb22e93d6f86babb559374b40ce57c43152a6fac0772bb51eafd06"
+    },
+    {
+     "file": "Getter sun.milk",
+     "name": "Getter sun",
+     "author": "Bmelgren",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "557c58d05ff5abf6f93db3fcda1628f29a5879e3bb0f8a9a0ee1e77b76555679"
+    },
+    {
+     "file": "Hold candle to.milk",
+     "name": "Hold candle to",
+     "author": "suksma",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)",
+     "sha256": "65f32baf0dcbe1785021f0cfe1879345fe89eb096390e7209dcecf04b8438c91"
+    },
+    {
+     "file": "Aurora totalis.milk",
+     "name": "Aurora totalis",
+     "author": "Goody",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "3bd195f26bd1bbab9de255b824439290d84a2e74c03267c7f067439ed6ed606a"
+    },
+    {
+     "file": "Burnt ice.milk",
+     "name": "Burnt ice",
+     "author": "ORB",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "5e9c86e023baf55fcac1c2828d7a0a472149b9db8af4862f4b7f621356eeaf5b"
+    },
+    {
+     "file": "Glowsticks (ghosts).milk",
+     "name": "Glowsticks (ghosts)",
+     "author": "EoS",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "014644b6357711377efc1ac7f3f0fcdcaaf785d4a0eb51753d636b28737f3161"
+    },
+    {
+     "file": "Artificial inspiration.milk",
+     "name": "Artificial inspiration",
+     "author": "yin",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "",
+     "sha256": "8149ce448d63c96b6a94732749ef2c03f005633ca800f93863592cca8db68c75"
+    },
+    {
+     "file": "Thought about you.milk",
+     "name": "Thought about you",
+     "author": "FED + AdamFX + martin + CosmoFX + Mstress + Armandio",
+     "licence": "shared freely, credited",
+     "tags": [],
+     "note": "made to move with the music: a swell of bass pushes its zoom, of treble its turn (two lines)",
+     "sha256": "89e541836c5601fe7c81feb8a2c63d127de1edb60a9af2d226f50bb32af5ff6a"
+    }
+   ]
   }
  ]
 }
