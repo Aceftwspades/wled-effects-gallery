@@ -1598,6 +1598,170 @@
    ]
   },
   {
+   "id": "studio-audio-particles",
+   "name": "Audio: Particles & flow",
+   "kind": "shadertoy",
+   "description": "Swarms, fireworks, rain and ink that travel at the music's pace: the level winds them on, each band of the spectrum sets how far its part reaches.",
+   "licence": "CC0 - written for the studio, with an AI (Claude)",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Rain of notes.glsl",
+     "name": "Rain of notes",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "rain",
+      "spectrum"
+     ],
+     "note": "streaks falling, a column for each band of the spectrum - as long as the band is loud, falling at the music's pace",
+     "sha256": "02bd84d60c059f8f21e5c71cfb89ed4e4756b575ee201c6a34866b08576866c9"
+    },
+    {
+     "file": "Swarm.glsl",
+     "name": "Swarm",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "swarm",
+      "trails"
+     ],
+     "note": "twenty lights swarming: the level sets their pace, the bass how far they range, their trails behind them",
+     "sha256": "b69c4b61d706437143d665d362a1cfcd5e13b2e81bf0bb2ae415bea7474ea66a"
+    },
+    {
+     "file": "Flow field.glsl",
+     "name": "Flow field",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "flow",
+      "ink"
+     ],
+     "note": "five wells of ink, each as wide as its band is loud, carried along a current the mid drives",
+     "sha256": "464b62de5f0c1a8e1433f99cac43e265debbc12d9ac80227c442edd05b0f256a"
+    },
+    {
+     "file": "Fireworks.glsl",
+     "name": "Fireworks",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "fireworks",
+      "bursts"
+     ],
+     "note": "five bursts going off in turn at the music's pace, each as wide as its band of the spectrum is loud",
+     "sha256": "42865051886c45c7820f7c38fb124ab1dd9e49ea4a7b6b2f0cb351f1e8b8d55d"
+    },
+    {
+     "file": "Aurora.glsl",
+     "name": "Aurora",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "aurora",
+      "spectrum"
+     ],
+     "note": "curtains of light as tall as the spectrum is loud, swaying at the mid's pace",
+     "sha256": "c13a9e138caa8f1cf0b94ec9d91cb4b20dcc88ab9b4e1f148d9570a93432ea65"
+    },
+    {
+     "file": "Vortex ink.glsl",
+     "name": "Vortex ink",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "vortex",
+      "ink"
+     ],
+     "note": "four drops of ink circling a whirlpool: the bass spins it, each drop as big as its band is loud",
+     "sha256": "fd123667d84047bfa67d05bd7572f39ab0e4b1f1e77fb40507410274ddcc4426"
+    }
+   ]
+  },
+  {
+   "id": "studio-audio-grids",
+   "name": "Audio: Grids & panels",
+   "kind": "shadertoy",
+   "description": "Bold and blocky, for a panel of a few hundred LEDs as much as a wall: a scrolling spectrogram, VU columns that hold their peaks, a scanner, checkers and diamonds - all read from across a room.",
+   "licence": "CC0 - written for the studio, with an AI (Claude)",
+   "noncommercial": false,
+   "items": [
+    {
+     "file": "Waterfall.glsl",
+     "name": "Waterfall",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "spectrogram",
+      "spectrum"
+     ],
+     "note": "a spectrogram: the spectrum drawn along the top, the last few seconds of it falling below",
+     "sha256": "2d3e76bd539658e743607dcd631fcca10f33479be4c9929b96f27e6e222229d9"
+    },
+    {
+     "file": "VU columns.glsl",
+     "name": "VU columns",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "bars",
+      "peaks"
+     ],
+     "note": "ten columns of blocks, each band's level - and a cap on each that holds the peak, then falls",
+     "sha256": "39ad2bc1a5c9b20c0541111ff33bc3541a7689020975820368401d9e856ef6cf"
+    },
+    {
+     "file": "Scanner.glsl",
+     "name": "Scanner",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "scanner",
+      "sweep"
+     ],
+     "note": "a bar of light sweeping side to side at the bass's pace, as wide as the bass is loud, its glow behind it",
+     "sha256": "36859074400830ad422a15ee9d90a39f9dd25c508e869bd3968d6c9a40aa1ee9"
+    },
+    {
+     "file": "Checker pulse.glsl",
+     "name": "Checker pulse",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "checkers",
+      "grid"
+     ],
+     "note": "a checkerboard whose squares swell with the sound - one colour of square with the bass, the other with the treble",
+     "sha256": "8daf4eb9023d85aceb2ee21e1e454c591a26ab052d77f22d51ce970d22c925c8"
+    },
+    {
+     "file": "Sound rings.glsl",
+     "name": "Sound rings",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "rings",
+      "spectrogram"
+     ],
+     "note": "a spectrogram in the round: what is playing now is the dot in the middle - red for bass, green for mid, blue for treble - and its past rings out from it",
+     "sha256": "40c6976640c340cf34a6f4c98822f764d9ffe7f4050f6aba0f85b4823918f1cc"
+    },
+    {
+     "file": "Diamond grid.glsl",
+     "name": "Diamond grid",
+     "author": "WLED Effects Studio",
+     "licence": "CC0",
+     "tags": [
+      "diamonds",
+      "blocks"
+     ],
+     "note": "diamonds stepping outward in blocks at the music's pace, each band as wide as the bass is loud",
+     "sha256": "1d2a4afa17f54f8cb8bab01d55e51f2feb301cf1071d301e90b321fb40e7e1ea"
+    }
+   ]
+  },
+  {
    "id": "studio-audio-milkdrop",
    "name": "Audio: MilkDrop presets",
    "kind": "milkdrop",

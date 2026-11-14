@@ -85,6 +85,8 @@ computer, and removes them the same way.
 | Audio: Feedback & scopes | 6 | CC0 - written for the studio |
 | Audio: Spectrum & geometry | 6 | CC0 - written for the studio |
 | Audio: MilkDrop presets | 6 | CC0 - written for the studio |
+| Audio: Particles & flow | 6 | CC0 - written for the studio |
+| Audio: Grids & panels | 6 | CC0 - written for the studio |
 
 Each look names its author, its source and its licence at its top, and
 again in `packs.json`. They are **not** under the EUPL like the graphs:

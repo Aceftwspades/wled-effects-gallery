@@ -1,0 +1,40 @@
+// NAME: Diamond grid
+// Diamond grid - WLED Effects Studio - CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+// diamonds stepping outward in blocks at the music's pace, each band as wide as the bass is loud
+// Written for the studio's VJ, with an AI (Claude): it reads the studio's sound - iBass, iMid, iTreble,
+// iLevel, iBeat, the spectrum and the wave on the sound channel - and the deck's amount (iAmount) is how
+// hard the music moves it.
+//@ common
+#define SPEC(x) texture(iChannel1, vec2(clamp(x, 0.0, 1.0), 0.25)).r
+#define WAVE(x) (texture(iChannel1, vec2(clamp(x, 0.0, 1.0), 0.75)).r * 2.0 - 1.0)
+#define REACT (0.35 + 1.3 * iAmount)
+#define K (iTimeDelta * 30.0)
+vec3 pal(float t) { return 0.5 + 0.5 * cos(6.2832 * (t + vec3(0.0, 0.33, 0.67))); }
+mat2 rot(float a) { return mat2(cos(a), -sin(a), sin(a), cos(a)); }
+vec2 centred(vec2 f) { return (f - 0.5 * iResolution.xy) / iResolution.y; }
+vec2 uv_of(vec2 p) { return (p * iResolution.y + 0.5 * iResolution.xy) / iResolution.xy; }
+//@ buffer A
+//@ iChannel0 = A
+//@ iChannel1 = sound
+//@ iChannel2 = none
+//@ iChannel3 = none
+void mainImage(out vec4 o, in vec2 f) {
+    float ph = texture(iChannel0, vec2(0.5)).a;
+    o = vec4(0.0, 0.0, 0.0, mod(ph + iTimeDelta * (0.30 + 2.4 * iLevel * REACT), 1000.0));
+}
+//@ image
+//@ iChannel0 = A
+//@ iChannel1 = sound
+//@ iChannel2 = none
+//@ iChannel3 = none
+void mainImage(out vec4 o, in vec2 f) {
+    vec2 p = centred(f);
+    float ph = texture(iChannel0, vec2(0.5)).a;
+    vec2 q = (floor(p * 14.0) + 0.5) / 14.0;                    // in blocks
+    float d = (abs(q.x) + abs(q.y)) * 4.0 - ph;
+    float w = 0.22 + 0.60 * iBass * REACT;
+    float lit = step(fract(d), w);
+    vec2 g = fract(p * 14.0);
+    float gapm = step(0.10, g.x) * step(0.10, g.y);
+    o = vec4(pal(floor(d) * 0.137 + iTreble * 0.2) * lit * gapm, 1.0);
+}
