@@ -73,7 +73,7 @@ computer, and removes them the same way.
 | MilkDrop: Ripples & clouds | 8 | each preset its author's, shared freely |
 | MilkDrop: Particles & sparks | 8 | each preset its author's, shared freely |
 | MilkDrop: Waveforms & spectrum | 11 | each preset its author's, shared freely |
-| MilkDrop: Supernova & dancers | 11 | each preset its author's, shared freely |
+| MilkDrop: Supernova & dancers | 9 | each preset its author's, shared freely |
 | Shadertoy: Raymarched | 7 | CC0, MIT |
 | Shadertoy: Colour & flow | 6 | CC BY 4.0, CC0, MIT |
 | Shadertoy: Patterns & kaleidoscopes | 8 | **CC BY-NC-SA 3.0, non-commercial** |

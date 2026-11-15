@@ -30,7 +30,16 @@ def check_packs(bad):
     if d.get("packs") != 1 or not isinstance(d.get("list"), list):
         bad.append("packs.json: {\"packs\": 1, \"list\": [...]} expected"); return 0
     pids = set()
+    names = {}                                # (kind, a look's name in lower case) -> the pack that has it
     for p in d["list"]:
+        for it in (p.get("items") or []) if isinstance(p, dict) else []:
+            if isinstance(it, dict) and isinstance(it.get("file"), str):
+                # the studio lists a look by its name (the item's, else its file's): two of one name and kind
+                # cannot both be shown - the second is refused there ("give one a NAME of its own")
+                key = (p.get("kind"), str(it.get("name") or it["file"].rsplit(".", 1)[0]).strip().lower())
+                if key in names and names[key] != p.get("id"):
+                    bad.append(f"pack {p.get('id')}: {it['file']} has the name of a look in {names[key]} ({key[1]!r})")
+                names.setdefault(key, p.get("id"))
         pid = p.get("id") if isinstance(p, dict) else None
         if not isinstance(pid, str) or not ID.match(pid):
             bad.append(f"packs.json: a pack with an id that is not lower case letters, digits and dashes: {pid!r}")
